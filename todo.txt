@@ -1,0 +1,13 @@
+A repository gyökerébe így kell beadni a fáljaimat:
+
+ - readme.md: tagok neve, vezetőt megnevezve
+   ==========
+
+ - konzolos projekt esetén: "projektnev-Program.cs"
+   ========================
+	- illetve ha külön fáljba írtam az osztályaimat, akkor "projektnev-*.*"
+
+- Forms-os alkalmazás:
+  ====================   "projektnev-Form1.cs"
+						"projektnev-Form1.Designer.cs"
+						"projektnev-*.cs" => Ami kódot ás írtam
