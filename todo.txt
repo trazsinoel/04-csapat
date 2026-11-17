@@ -11,3 +11,6 @@ A repository gyökerébe így kell beadni a fáljaimat:
   ====================   "projektnev-Form1.cs"
 						"projektnev-Form1.Designer.cs"
 						"projektnev-*.cs" => Ami kódot ás írtam
+- wpf alkalmazas:
+  ==============  "projektnev-MainWindow.xaml"
+                  "projektnev-MainWindow.xaml.cs"
